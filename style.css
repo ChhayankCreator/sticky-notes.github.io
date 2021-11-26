@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    position: relative;
+    background-color: #c68c53a8;
+    font-family: 'Architects Daughter', cursive;
+}
+
+button {
+    padding: 8px;
+    outline: none;
+    cursor: pointer;
+    font-family: inherit;
+    border-radius: 5px;
+    background: whitesmoke;
+    border: 1px solid lightgray;
+}
+
+button:hover {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.1);
+}
